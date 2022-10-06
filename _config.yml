@@ -83,11 +83,11 @@ author:
   name             : "Raz Slutsky"
   avatar           : "profile.png"
   bio              : "PhD Student at the Weizmann Institute of Science"
-  location         : ""
+  location         : #""
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=MycefaUAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "razslo (at) gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
